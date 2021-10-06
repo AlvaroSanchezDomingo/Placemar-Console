@@ -1,0 +1,1 @@
+C:\mobile-app\week02\Placemark-Console-1.0\build\classes\kotlin\main\org\wit\placemark\MainKt.class
